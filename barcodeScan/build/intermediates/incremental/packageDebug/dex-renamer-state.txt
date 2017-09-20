@@ -1,0 +1,7 @@
+#Fri Jul 14 18:29:27 IST 2017
+base.0=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9770d8bfc77ceaa78a9c7ab8a14a6d8275d614dc
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_675ee8ce1fe5912451a7a05edfcb455986d62643\\classes.dex
+base.1=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_675ee8ce1fe5912451a7a05edfcb455986d62643
+file.0=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9770d8bfc77ceaa78a9c7ab8a14a6d8275d614dc\\classes.dex

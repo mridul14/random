@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/androidjavabasic/androidjavabasic.iml" filepath="$PROJECT_DIR$/androidjavabasic/androidjavabasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app12/app12.iml" filepath="$PROJECT_DIR$/app12/app12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_main/app_main.iml" filepath="$PROJECT_DIR$/app_main/app_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app_main_1/app_main_1.iml" filepath="$PROJECT_DIR$/app_main_1/app_main_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bacics_complicated/bacics_complicated.iml" filepath="$PROJECT_DIR$/bacics_complicated/bacics_complicated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/call_msg/call_msg.iml" filepath="$PROJECT_DIR$/call_msg/call_msg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calling_basic/calling_basic.iml" filepath="$PROJECT_DIR$/calling_basic/calling_basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chat/chat.iml" filepath="$PROJECT_DIR$/chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firebasedemo/firebasedemo.iml" filepath="$PROJECT_DIR$/firebasedemo/firebasedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intent_demo/intent_demo.iml" filepath="$PROJECT_DIR$/intent_demo/intent_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/location_demo/location_demo.iml" filepath="$PROJECT_DIR$/location_demo/location_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media_player_demo/media_player_demo.iml" filepath="$PROJECT_DIR$/media_player_demo/media_player_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/menus_and_preferences/menus_and_preferences.iml" filepath="$PROJECT_DIR$/menus_and_preferences/menus_and_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mridul.iml" filepath="$PROJECT_DIR$/mridul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/receiver_demo/receiver_demo.iml" filepath="$PROJECT_DIR$/receiver_demo/receiver_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewdemp/recyclerviewdemp.iml" filepath="$PROJECT_DIR$/recyclerviewdemp/recyclerviewdemp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_demo/service_demo.iml" filepath="$PROJECT_DIR$/service_demo/service_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slider_demo/slider_demo.iml" filepath="$PROJECT_DIR$/slider_demo/slider_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite_demo/sqlite_demo.iml" filepath="$PROJECT_DIR$/sqlite_demo/sqlite_demo.iml" />
+    </modules>
+  </component>
+</project>

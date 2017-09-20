@@ -1,0 +1,1 @@
+include ':app', ':androidjavabasic', ':intent_demo', ':menus_and_preferences', ':bacics_complicated', ':slider_demo', ':recyclerviewdemp', ':sqlite_demo', ':firebasedemo', ':location_demo', ':media_player_demo', ':service_demo', ':calling_basic', ':call_msg', ':receiver_demo', ':app12', ':app_main', ':app_main_1', ':chat'

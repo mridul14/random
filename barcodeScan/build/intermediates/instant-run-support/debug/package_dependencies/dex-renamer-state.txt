@@ -1,0 +1,4 @@
+#Fri Jul 14 18:29:22 IST 2017
+base.0=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5d70e96ba8f1d94a93fec52d16ac2f70dc9cb03e
+renamed.0=classes.dex
+file.0=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_5d70e96ba8f1d94a93fec52d16ac2f70dc9cb03e\\classes.dex

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="auth_failed">authentication failed</string>
+    <string name="title_activity_home">HomeActivity</string>
+</resources>

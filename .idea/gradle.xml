@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/androidjavabasic" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app12" />
+            <option value="$PROJECT_DIR$/app_main" />
+            <option value="$PROJECT_DIR$/app_main_1" />
+            <option value="$PROJECT_DIR$/bacics_complicated" />
+            <option value="$PROJECT_DIR$/call_msg" />
+            <option value="$PROJECT_DIR$/calling_basic" />
+            <option value="$PROJECT_DIR$/chat" />
+            <option value="$PROJECT_DIR$/firebasedemo" />
+            <option value="$PROJECT_DIR$/intent_demo" />
+            <option value="$PROJECT_DIR$/location_demo" />
+            <option value="$PROJECT_DIR$/media_player_demo" />
+            <option value="$PROJECT_DIR$/menus_and_preferences" />
+            <option value="$PROJECT_DIR$/receiver_demo" />
+            <option value="$PROJECT_DIR$/recyclerviewdemp" />
+            <option value="$PROJECT_DIR$/service_demo" />
+            <option value="$PROJECT_DIR$/slider_demo" />
+            <option value="$PROJECT_DIR$/sqlite_demo" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

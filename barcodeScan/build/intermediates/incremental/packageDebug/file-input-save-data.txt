@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri Jul 14 18:29:28 IST 2017
+2.base=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9770d8bfc77ceaa78a9c7ab8a14a6d8275d614dc
+count=7
+0.file=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_675ee8ce1fe5912451a7a05edfcb455986d62643\\classes.dex
+5.base=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_675ee8ce1fe5912451a7a05edfcb455986d62643
+3.file=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\dell\\AndroidStudioProjects\\mridul\\barcodeScan\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9770d8bfc77ceaa78a9c7ab8a14a6d8275d614dc\\classes.dex
+0.set=DEX

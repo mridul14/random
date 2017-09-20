@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "616427638064",
+    "firebase_url": "https://mridul-231fb.firebaseio.com",
+    "project_id": "mridul-231fb",
+    "storage_bucket": "mridul-231fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616427638064:android:a40ed6eb08e920be",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616427638064-54k33d9t79c3cch2t960jqjlqn4421vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasedemo",
+            "certificate_hash": "92389556c67fca0164f4afbc514df540978c65ef"
+          }
+        },
+        {
+          "client_id": "616427638064-41ld55713iel06hi7g8toq28heneb63c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxy11y969fLOExRNmoyC2P_jpN863ZVys"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616427638064-41ld55713iel06hi7g8toq28heneb63c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
